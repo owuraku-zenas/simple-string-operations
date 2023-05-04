@@ -14,5 +14,7 @@ public class Main {
 //            System.out.println(key);
 //            value.forEach(System.out::println);
 //        });
+        char[] charArray = {'h','e', ' ' , 'l', ' ', 'l', 'o'};
+        System.out.println(StringOperation.replaceSpace(charArray));
     }
 }

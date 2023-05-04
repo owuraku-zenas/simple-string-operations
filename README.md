@@ -7,3 +7,8 @@ lab work. However, if you want an extra challenge, try TDD.
    sequence that reads the same backwards as forwards – i.e. madam or nurses run)
 3. Write a method that can determine whether a string is made up from unique
    characters. Op+onal, write a version that doesn’t use addi+onal data structures)
+4. Given an array of characters, replace all the spaces with '%20'. You can assume the array is large enough to hold the modified string.
+
+5. Given a string, write a method that checks if it is a permutation of a palindrome. eg: 'mmada' is a permutation of 'madam'
+
+6. Given two arrays of integers find the pair with the smallest (non-negative) difference eg: {2,1} and {10,3,5} = 2 and 3 with a difference of 1.

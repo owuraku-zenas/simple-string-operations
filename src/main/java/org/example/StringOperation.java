@@ -86,4 +86,9 @@ public class StringOperation {
 
         return Map.of("top", topThree, "bottom", bottomThree);
     }
+
+    public static char[] replaceSpace(char[] charArray) {
+        String word = new String(charArray);
+        return word.replaceAll(" ", "%20").toCharArray();
+    }
 }
